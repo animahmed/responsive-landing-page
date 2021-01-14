@@ -2,11 +2,10 @@
 {
     position: relative;
     background: url("images/logo1.png");
-    width: 40px;
+    width: 40px;}
+
+   
   
-    
-    
-}
 .text-highlight{
     color: lightsalmon;
 }
